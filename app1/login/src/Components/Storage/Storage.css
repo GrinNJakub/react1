@@ -1,0 +1,8 @@
+.storage {
+    display: 'flex';
+    flex-direction: row;
+}
+
+.storage .item-list {
+    margin-right: 10px;
+}
